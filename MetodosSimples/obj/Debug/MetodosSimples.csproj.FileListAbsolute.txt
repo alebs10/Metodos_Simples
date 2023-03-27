@@ -1,0 +1,8 @@
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MetodosSimples\MetodosSimples\bin\Debug\MetodosSimples.exe.config
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MetodosSimples\MetodosSimples\bin\Debug\MetodosSimples.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MetodosSimples\MetodosSimples\bin\Debug\MetodosSimples.pdb
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MetodosSimples\MetodosSimples\obj\Debug\MetodosSimples.csproj.AssemblyReference.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MetodosSimples\MetodosSimples\obj\Debug\MetodosSimples.csproj.SuggestedBindingRedirects.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MetodosSimples\MetodosSimples\obj\Debug\MetodosSimples.csproj.CoreCompileInputs.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MetodosSimples\MetodosSimples\obj\Debug\MetodosSimples.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MetodosSimples\MetodosSimples\obj\Debug\MetodosSimples.pdb
